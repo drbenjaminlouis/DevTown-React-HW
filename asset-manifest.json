@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DevTown-React-HW/static/css/main.cb3a754f.css",
+    "main.js": "/DevTown-React-HW/static/js/main.33eb7eb9.js",
+    "index.html": "/DevTown-React-HW/index.html",
+    "main.cb3a754f.css.map": "/DevTown-React-HW/static/css/main.cb3a754f.css.map",
+    "main.33eb7eb9.js.map": "/DevTown-React-HW/static/js/main.33eb7eb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb3a754f.css",
+    "static/js/main.33eb7eb9.js"
+  ]
+}
